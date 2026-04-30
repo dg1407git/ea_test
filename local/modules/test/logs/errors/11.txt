@@ -1,0 +1,10 @@
+2026: Exception: service courierQuote return null in S:\OSPanel\home\b24.loc\local\modules\test\lib\App.php:100
+Stack trace:
+#0 S:\OSPanel\home\b24.loc\local\modules\test\lib\App.php(203): test\App::setEtaDays(Array)
+#1 S:\OSPanel\home\b24.loc\test.php(19): test\App::process(11)
+#2 {main}
+2026: service courierQuote return null
+2026: service courierQuote return null
+2026: service courierQuote return null
+2026-04-30 03:03:36: service courierQuote return null
+2026-04-30 03:03:37: service courierQuote return null
